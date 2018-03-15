@@ -1,0 +1,5 @@
+Colour of magic;Terry Pratchett;fantasy;289;1985
+Amazonka;James Rollins;thriller;547;2009
+Carrie;Stephen King;thriller;275;1988
+Metro 2033;Dmitry Gluchovsky;thriller;368;2015
+Gringo;W. Cejrowski;adventure;357;2012
