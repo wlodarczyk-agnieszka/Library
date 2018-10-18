@@ -7,6 +7,3 @@ Simple C# console application.
 - Search option
 - Save your list to file (.txt)
 
-#### Screenshots
-comming soon
-
